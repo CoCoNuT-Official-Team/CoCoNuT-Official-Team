@@ -1,18 +1,23 @@
 ## Hi there 👋
 
+Welcome to **CoCoNuT** — a collection of browser extensions and web tools designed to enhance your browsing experience.
 
-test
-<!--
-**CoCoNuT-Official-Team/CoCoNuT-Official-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📺 YouTube Extension
+- Picture-in-Picture (PiP) mode  
+- Automatic quality locking  
+- Auto-skip for YouTube Shorts  
+
+### 🎮 Clicker Game Extension
+- Simple and addictive browser-based clicker game
+
+### 🛡️ Shopping Blocker Extension
+- Blocks unwanted shopping sites to reduce distractions
+
+---
+
+## 🌐 Official Website
+https://coconut-official-website.vercel.app/
