@@ -21,3 +21,15 @@ Welcome to **CoCoNuT** — a collection of browser extensions and web tools desi
 
 ## 🌐 Official Website
 https://coconut-official-website.vercel.app/
+
+---
+
+## 👥 Team Members
+
+### 🥥 Leader  
+**Kwak Do Young**  
+GitHub: https://github.com/minu0563  
+
+### 🥥 Team Member  
+**Park Ju Hyun**  
+GitHub: https://github.com/pastelmaro
